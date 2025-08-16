@@ -8,4 +8,4 @@ while True:
     print("Dự án ngẫu nhiên:", random.choice(projects))
     time.sleep(5)
 
---02--04--06--07--09--11--12--14--15
+--02--04--06--07--09--11--12--14--15--16
